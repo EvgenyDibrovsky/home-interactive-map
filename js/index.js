@@ -1,0 +1,1 @@
+import initInteractive from"./modules/interactive";import"../main.css";document.addEventListener("DOMContentLoaded",(()=>{initInteractive()})),import.meta.webpackHot&&import.meta.webpackHot.accept();
